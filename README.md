@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Yasaswi</h1>
 <h3 align="center">A enthusiast learner</h3>
 <img align="right" alt="codingGirl" width="400" 
+     
+     src="https://in.pinterest.com/pin/1074319686084581308/">
 
 <p align="left"> <img src="https://in.pinterest.com/pin/1074319686084581308/" alt="axg-coder" /> </p>
 
